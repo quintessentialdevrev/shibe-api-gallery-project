@@ -7,7 +7,7 @@ function App() {
   const [dark, setDark] = useState(true)
 
   const refresh = () => {
-    fetch("http://shibe.online/api/shibes?count=50")
+    fetch("https://shibe.online/api/shibes?count=50")
         .then(res => res.json())
         .then(data => setPhoto(data))
   };
