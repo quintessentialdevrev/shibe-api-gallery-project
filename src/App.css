@@ -114,7 +114,7 @@
   width: 30%;
   height: 8vh;
   background-color:bisque;
-  font-size: 500%;
+  font-size: 300%;
   border-radius: 250px;
 }
 
@@ -124,6 +124,6 @@
   height: 8vh;
   background-color: azure;
   color: red;
-  font-size: 500%;
+  font-size: 300%;
   border-radius: 250px;
 }
